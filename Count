@@ -17,5 +17,6 @@ int main()
    if(num1>num2) 
       cout<<"-1"; 
    else 
-     cout<<fun(num1,num2);
+     cout<<fun(num1,num2); 
+     return 0;
 }
